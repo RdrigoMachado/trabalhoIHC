@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/drawable/doacao.xml" value="0.2265" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_andamentos.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_andamentos2.xml" value="0.25" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_concluidas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_nova.xml" value="0.32790224032586557" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_propostas.xml" value="0.264" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_tela_inicial_donatario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/activity_tela_nova_doacao.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/adicionar_alimento.xml" value="0.4" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/contato.xml" value="0.225" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/doacao.xml" value="0.4" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/fragment_date_picker_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/fragment_o_n_g_inicial.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/info_doacao.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/info_doacao_donatario.xml" value="0.22" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/info_doacao_donatario2.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_alimento.xml" value="0.264" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_alimento_removivel.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_andamento.xml" value="0.4" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_andamento_donatario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_andamentos_donatario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_concluido.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_concluidos.xml" value="0.4" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/item_donatario.xml" value="0.4" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/tela_inicial_doador.xml" value="0.225" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/layout/tela_inicial_donatario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rodrigo/AndroidStudioProjects/IHC/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
